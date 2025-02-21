@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/mavish12",
   linkedin: "https://www.linkedin.com/in/shivam-lodh-b0394224a/",
   resume:
-    "https://drive.google.com/file/d/1LYZ6w6kM2J9jEBYvQ20D3ri408lDyOSd/view?usp=drive_link",
+    "https://drive.google.com/file/d/1LYZ6w6kM2J9jEBYvQ20D3ri408lDyOSd/view?usp=sharing",
 };
 
 export const experiences = [
