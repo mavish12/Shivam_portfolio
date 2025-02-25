@@ -7,7 +7,7 @@ export const Bio = {
   name: "Shivam Lodh",
   roles: ["Frontend Developer", "Full Stack Developer", "UI/UX Designer"],
   description:
-    "I am a dynamic and adaptable individual with a strong drive for learning and growth. Always ready to take on new challenges, I am committed to delivering exceptional results. My problem-solving abilities and enthusiasm for innovation allow me to thrive in fast-paced environments. With a positive mindset and a dedication to continuous improvement, I am eager to contribute meaningfully and achieve excellence.",
+    "I am a Web Developer skilled in React.js, JavaScript, Tailwind CSS, Node.js & MongoDb. I specialize in building responsive web applications, interactive dashboards, and seamless UI/UX experiences. With experience in API integrations, performance optimization, and accessibility, I strive to create efficient, scalable, and user-friendly solutions. Passionate about problem-solving and continuous learning, I focus on crafting intuitive digital experiences that enhance user engagement.",
   github: "https://github.com/mavish12",
   linkedin: "https://www.linkedin.com/in/shivam-lodh-b0394224a/",
   resume:
